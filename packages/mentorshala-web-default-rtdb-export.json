@@ -1,0 +1,65 @@
+{
+  "mentees": {
+    "634EUIOCUsZB9czdax97zY4QOC03": {
+      "aboutMe": "hello im rahul im bsc it student helloooooo im menteee",
+      "activities": "undefined",
+      "contactInfo": "Email: rahul111@gmail.com",
+      "education": "12th - cbse _ doon bhawni international school",
+      "email": "rahul111@gmail.com",
+      "field": "wewq",
+      "fullName": "rahul",
+      "null": "UID: 634EUIOCUsZB9czdax97zY4QOC03sdasdasda",
+      "projects": "High Schoolddasdasdadndjnajda",
+      "skills": "undefined",
+      "user": "634EUIOCUsZB9czdax97zY4QOC03"
+    },
+    "ABTO7F5BcgSSAmbeGFug7ZaitUw2": {
+      "aboutMe": "sadasdasd",
+      "activities": "",
+      "contactInfo": "",
+      "education": "",
+      "fullName": "",
+      "projects": "",
+      "skills": ""
+    },
+    "UyMpFGNmw0V5bC9Hwam6FDfvkTM2": {
+      "education": "Bachelor's Degree",
+      "email": "rahul@gmail.com",
+      "field": "sasd",
+      "fullName": "rahul"
+    }
+  },
+  "mentors": {
+    "ABTO7F5BcgSSAmbeGFug7ZaitUw2": {
+      "availability": "asdsadasd",
+      "bio": "aweadd",
+      "contact": "07078101720",
+      "email": "rahulkohli7071118@gamil.com",
+      "experience": "1",
+      "expertise": "asdasd",
+      "fullName": "Rahul koli",
+      "motivation": "asdas",
+      "password": "11111111",
+      "qualifications": "kyu btaooo",
+      "requests": {
+        "-NzmEabymWdJb_v--__S": {
+          "date": "2024-06-20",
+          "email": "rahul111@gmail.com",
+          "status": "accepted",
+          "time": "19:58"
+        },
+        "-Nzv8-MeJCcA7bRGsV46": {
+          "date": "2024-06-11",
+          "email": "rahulkohli7071118@gamil.com",
+          "time": "09:29"
+        },
+        "-NzvLHatEHb54vHxXmdT": {
+          "date": "2024-07-04",
+          "email": "rahulkohli7071118@gamil.com",
+          "time": "10:29"
+        }
+      },
+      "user": "ABTO7F5BcgSSAmbeGFug7ZaitUw2"
+    }
+  }
+}
